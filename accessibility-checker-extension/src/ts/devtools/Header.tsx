@@ -24,7 +24,7 @@ import { Reset16 } from '@carbon/icons-react';
 // import { SettingsAdjust16 } from '@carbon/icons-react';
 import { ReportData16 } from '@carbon/icons-react';
 
-const BeeLogo = "/assets/Bee_logo.svg";
+const BeeLogo = "/assets/Bee_logo32.svg";
 import Violation16 from "../../assets/Violation16.svg";
 import NeedsReview16 from "../../assets/NeedsReview16.svg";
 import Recommendation16 from "../../assets/Recommendation16.svg";

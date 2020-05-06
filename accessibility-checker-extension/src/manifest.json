@@ -6,10 +6,10 @@
 	"version": "3.0.0",
     "homepage_url": "https://ibm.com/able",
 	"icons": {
-        "16": "assets/Bee_Logo@16px.png",
-        "32": "assets/Bee_Logo@32px.png",
-        "64": "assets/Bee_Logo@64px.png",
-        "128": "assets/Bee_Logo@128px.png"
+        "16": "assets/Bee_Logo@16px.svg",
+        "32": "assets/Bee_Logo@32px.svg",
+        "64": "assets/Bee_Logo@64px.svg",
+        "128": "assets/Bee_Logo@128px.svg"
 	},
 	"content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
 	"permissions": [
@@ -21,11 +21,11 @@
 	"browser_action": {
 		"default_title": "IBM Equal Access Accessibility Checker",
 		"default_icon": {
-            "16": "assets/Bee_Logo@16px.png",
-            "32": "assets/Bee_Logo@32px.png",
-            "48": "assets/Bee_Logo@48px.png",
-            "64": "assets/Bee_Logo@64px.png",
-            "128": "assets/Bee_Logo@128px.png"
+            "16": "assets/Bee_Logo@16px.svg",
+            "32": "assets/Bee_Logo@32px.svg",
+            "48": "assets/Bee_Logo@48px.svg",
+            "64": "assets/Bee_Logo@64px.svg",
+            "128": "assets/Bee_Logo@128px.svg"
 		},
 		"default_popup": "popup.html"
 	},

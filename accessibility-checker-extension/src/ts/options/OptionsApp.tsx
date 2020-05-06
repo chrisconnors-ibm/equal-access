@@ -22,7 +22,7 @@ import { Dropdown, Button, InlineNotification } from "carbon-components-react";
 import { Restart16, Save16 } from "@carbon/icons-react";
 import OptionMessaging from "../util/optionMessaging";
 
-import beeLogoUrl from "../../assets/Bee_Logo.svg";
+import beeLogoUrl from "../../assets/Bee_Logo32.svg";
 
 interface OptionsAppState {
   archives: any;

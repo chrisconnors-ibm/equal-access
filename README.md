@@ -1,4 +1,4 @@
-# equal-access
+npm # equal-access
 
 Note: This tool release is currently beta. Some links may not resolve.
 
