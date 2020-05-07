@@ -20,7 +20,7 @@ import { IReportItem, ICheckpoint, IReport } from './Report';
 
 import HelpFileSwitcher from "../help/helpSwitcher";
 
-// const Violation16 = "/assets/Violation16.png";
+// const Violation16 = "/assets/Violation16.svg";
 
 interface IHelpState {
 }
